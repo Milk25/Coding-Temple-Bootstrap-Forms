@@ -1,0 +1,33 @@
+.heading {
+    font-size: 48px;
+    list-style-type: none;
+    text-align: center;
+}
+
+img {
+    /* background-image: url("image.png"); */
+    /* background-size:auto; */
+    height: 1000px;
+    width:  1000px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.tables {
+    border: 3px solid red;
+}
+
+body {
+    background-color: rgb(231, 200, 27);
+}
+
+.click:hover {
+    color:tomato;
+
+}
+
+.card {
+    list-style-type: none;
+}
